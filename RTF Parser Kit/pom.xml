@@ -70,6 +70,16 @@
     </dependency>
   </dependencies>
   
-  
+  <distributionManagement>
+  <!--
+    'Distribute' into build folder in order to deploy it manually to github
+    See http://blog.glassdiary.com/post/64370899685/how-to-use-maven-release-plugin-with-github-releases
+  -->
+    <repository>
+      <id>internal.repo</id>
+      <name>Temporary Staging Repository</name>
+      <url>file://${project.build.directory}/mvn-repo</url>
+    </repository>
+  </distributionManagement>
 
 </project>
