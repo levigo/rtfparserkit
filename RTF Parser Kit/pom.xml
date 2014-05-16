@@ -23,8 +23,8 @@
   </licenses>
   
   <scm>
-    <connection>scm:git:https://github.com/levigo/rtfparserkit.git</connection>
-    <developerConnection>scm:svn:https://github.com/levigo/rtfparserkit.git</developerConnection>
+    <connection>scm:git:https://github.com/levigo/rtfparserkit.git/RTF%20Parser%20Kit</connection>
+    <developerConnection>scm:svn:https://github.com/levigo/rtfparserkit.git/RTF%20Parser%20Kit</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
