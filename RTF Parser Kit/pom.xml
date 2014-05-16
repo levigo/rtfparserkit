@@ -23,7 +23,6 @@
   <scm>
     <connection>scm:git:ssh://git@github.com/levigo/rtfparserkit.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/levigo/rtfparserkit.git</developerConnection>
-    <tag>HEAD</tag>
   </scm>
 
   <build>
