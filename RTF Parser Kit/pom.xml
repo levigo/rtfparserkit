@@ -24,7 +24,7 @@
   
   <scm>
     <connection>scm:git:https://github.com/levigo/rtfparserkit.git/RTF%20Parser%20Kit</connection>
-    <developerConnection>scm:svn:https://github.com/levigo/rtfparserkit.git/RTF%20Parser%20Kit</developerConnection>
+    <developerConnection>scm:git:https://github.com/levigo/rtfparserkit.git/RTF%20Parser%20Kit</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
