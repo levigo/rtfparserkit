@@ -47,7 +47,7 @@
                 <goal>perform</goal>
               </goals>
               <configuration>
-                <pomFileName>RTF Parser Kit/pom.xml</pomFileName>
+                <pomFileName>"RTF Parser Kit"/pom.xml</pomFileName>
               </configuration>
           </execution>
         </executions>
